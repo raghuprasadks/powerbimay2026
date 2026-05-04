@@ -1,0 +1,100 @@
+Agenda:
+1. Introduction to 
+data analytics and 
+visualization
+KPI - Key Performance Indicators
+placements
+marks
+Infrastructure
+facilities
+activities
+fee structure
+
+Gather data - Excel,CSV,database,cloud database,cloud
+validity - duplicate, missing data,out of bound/range
+analysis - products
+visualization
+line,bar,pie,area,geographic,card
+
+Top consulting firms
+2. Tools
+
+3. Why power BI
+
+Hands-on session
+1. Top 10 economies in the world
+US
+China
+Japan
+
+GDP
+Per capita information
+PPP
+
+AI - chatgpt,gemini
+
+top 10 economies in the world in table format
+
+add per capita and ppp
+
+remove key insights
+
+download as csv file
+
+step 2:
+open power bi
+blank report
+get data
+text/csv
+
+app.powerbi.com
+sign up and login
+
+Report of
+country vs ppp
+
+Sign up and login
+https://app.powerbi.com/
+
+Step 3-
+publish report to the app.powerbi.com
+by using publish option in the desktop
+enter the credentials of the app.powerbi.com
+
+step 4
+Install power bi app from Microsoft
+on your mobile phone
+login using the same credentials
+which you have used in app.powerbi.com
+
+www.kaushalya.tech
+
+git
+repositories
+powerbimay2026
+
+programs
+Adidas sales analysis
+download all the files
+
+implicit function
+explicit function
+
+measure - calculated value
+right click on data table 
+new measure
+totalsalesmeasure =SUM('Data Sales Adidas'[Total Sales])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
