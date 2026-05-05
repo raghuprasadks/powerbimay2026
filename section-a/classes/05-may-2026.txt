@@ -42,7 +42,7 @@ hranalytics
 transformation
 steps
 1. Create transformation power bi project
-2. Upload transformationdata into it
+2. Upload datatransformation.xlsx into it
 3. While uploading click transform
 4. Remove duplicates
 5. Add custom column total
