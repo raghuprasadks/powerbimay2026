@@ -39,6 +39,20 @@ powerbimay2026
 programs
 hranalytics
 
+transformation
+steps
+1. Create transformation power bi project
+2. Upload transformationdata into it
+3. While uploading click transform
+4. Remove duplicates
+5. Add custom column total
+by adding sub1+sub2+sub3
+6. Add conditional column remarks
+
+if total >250 above 250
+else if total >200 above 200
+else
+below 200
 
 
 
