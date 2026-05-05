@@ -2,4 +2,40 @@ Chocolate introduction
 
 https://youtu.be/r7CARn1BL-A?si=D1okULJYIZi5LX9q
 
+https://www.youtube.com/watch?v=mTAJfK9YDBM
+
 https://dax.guide/
+
+EVALUATE
+ROW(
+    "Column Count",
+    COUNT('Data Sales Adidas'[City])
+)
+
+EVALUATE
+ROW(
+    "Column Count",
+    COUNTAX('Data Sales Adidas',IF('Data Sales Adidas'[Total Sales]>200000,0))
+)
+
+EVALUATE
+ROW(
+    "Maximum", MAX('TableName'[ColumnName]),
+    "Minimum", MIN('TableName'[ColumnName]),
+    "Average", AVERAGE('TableName'[ColumnName])
+)
+
+EVALUATE
+ROW(
+    "Maximum", MAX('Data Sales Adidas'[Total Sales]),
+    "Minimum", MIN('Data Sales Adidas'[Total Sales]),
+    "Average", AVERAGE('Data Sales Adidas'[Total Sales])
+)
+
+https://dax.do/
+
+EVALUATE
+TOPN(
+    10,
+    Product
+)

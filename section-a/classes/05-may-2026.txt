@@ -1,0 +1,44 @@
+Agenda:
+1. Data Analysis Expressions (DAX)
+DAX functions
+2. End to end use case - HR Data Analytics
+3. Assessment - MCQ
+
+Recap:
+Data Analytics and visualization
+Tools - Power BI - Microsoft
+SAAS - Software As a Service
+
+desktop
+web - app.powerbi.com
+mobile:
+powerbi mobile app from Microsoft
+
+data connectors
+
+project life cycle
+requirement gathering,analysis
+business re-engineering
+project management
+scope,time,cost
+product manager
+
+Dax hands-on
+1. create blank power bi project
+2. Import adidas data
+3. create 3 measures to display maximumsales,minimumsales and averagesales
+
+
+End to end use case - HR Analytics
+
+download HR Analytics files from the git
+www.kaushalya.tech
+git
+repositories
+powerbimay2026
+programs
+hranalytics
+
+
+
+
