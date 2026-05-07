@@ -1,0 +1,44 @@
+Agenda:
+1. HR Analytics Dashboard - done
+2. DAX
+Data Analysis eXpression - done
+3. Data transformation - done
+4. Data modelling
+5. MCQ assessment
+www.kaushalya.tech
+git
+repositories
+powerbimay2026
+programs
+hranalytics
+
+www.kaggle.com
+https://www.kaggle.com/code/krishd123/data-analysis-monthly-ipl-2026
+
+
+DAX
+
+1. create 3-dax.pbix file in power bi
+2. Upload HR Analytics.xlsx
+select data sheet
+3. click on transform
+DAX - measure
+
+totalattritioncount = SUM(Data[CF_attrition count])
+4. card visual
+drop the totalattritioncount
+attritioncountfemale
+attritioncountmale
+
+Download blinkit
+
+
+Financial functions
+
+YTD
+MTD
+
+April 1st
+
+Download blinkit files
+and analyze the dashboard

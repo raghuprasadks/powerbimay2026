@@ -55,4 +55,19 @@ else
 below 200
 
 
+Data model
+1. create datamodel.pbix
+2. Upload datamodel.xlsx
+3. Select both the sheets while uploading
+4. View datamodel
+
+MCQ test
+
+ekaushalya.kaushalya.tech
+
+login
+create an account
+login
+
+
 

@@ -1,0 +1,74 @@
+Agenda:
+1. Introduction to data analytics and visualization
+Google
+AI - Open AI
+chatgpt
+a. Availability of the data
+b. Processing capability - chips
+c. Power ,water,silicon
+
+Consulting firms
+
+
+www.kaushalya.tech
+click git
+repositories
+powerbimay2026
+programs
+adidassalesanalysis
+download all the files
+and keep it into a adidas folder
+
+
+
+
+project
+Metro 
+
+1. Objective,stake holders,project owner
+consultants
+Requirements
+implementation agencies
+
+2. Tools
+excel
+Power BI - Microsoft
+
+3. Reports
+Top 10 economies in the world
+
+Top 10 economies in the world
+
+latest top 10 economies in the world in tabular format
+
+add per capita income and ppp
+
+convert this into csv file for me to download
+app.powerbi.com
+
+a. Nominal gdp by country - done
+b. Per capita income by country
+c. ppp by country
+
+
+3. Installation and getting started with Power BI
+4. Hands-on session
+
+2000 USD
+
+2000 * 100
+200000
+
+sign up and login
+
+app.powerbi.com
+
+download power bi app from playstore or app  store
+and login with same credential as that
+of app.powerbi.com
+
+DAX - Data Analysis eXpression
+1. Measure
+TotalSalesMeasure = SUM('Data Sales Adidas'[Total Sales])
+2. Calculated Value
+Display measure in a card
