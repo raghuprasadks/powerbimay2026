@@ -53,3 +53,8 @@ Name,address,email,mobile
 code,name,price
 3. buy - order
 orderdate,productcode,qty,price,totalvalue,status
+
+download
+ecommerce.xlsx from section-b/programs
+create datamodel.pbix
+upload ecommerce.xlsx and check the datamodel
