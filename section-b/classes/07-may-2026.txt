@@ -42,3 +42,14 @@ April 1st
 
 Download blinkit files
 and analyze the dashboard
+
+Data modelling
+
+e-commerce
+database
+1. Sign Up
+Name,address,email,mobile
+2. Product
+code,name,price
+3. buy - order
+orderdate,productcode,qty,price,totalvalue,status
