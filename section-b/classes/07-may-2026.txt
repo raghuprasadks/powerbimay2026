@@ -3,7 +3,7 @@ Agenda:
 2. DAX
 Data Analysis eXpression - done
 3. Data transformation - done
-4. Data modelling
+4. Data modelling - done
 5. MCQ assessment
 www.kaushalya.tech
 git
@@ -58,3 +58,9 @@ download
 ecommerce.xlsx from section-b/programs
 create datamodel.pbix
 upload ecommerce.xlsx and check the datamodel
+
+
+for MCQ
+
+ekaushalya.kaushalya.tech
+
