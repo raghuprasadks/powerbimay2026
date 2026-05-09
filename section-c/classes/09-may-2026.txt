@@ -1,0 +1,48 @@
+Agenda:
+1. HR Analytics dashboard - done
+2. Dax functions - measures
+3. Data transformation - header columns
+4. Data modelling 
+5. MCQ Test
+6. Coding test - Building databoard
+
+HR Analytics dashboard..
+
+www.kaushalya.tech
+git
+repositories
+powerbimay2026
+programs
+HR Analytics folder
+download two files
+1. create a blank report - save it is
+3-hranalytics
+2. Upload data file - HR Analytics
+3. Start building dashboard.
+
+e-commerce
+1. Sign up
+name
+email
+mobile
+address
+location
+zipcode
+
+2. Login
+3. Search
+product
+name
+description
+image
+video
+price
+supplier
+4. Buy product
+payment
+invoice 
+
+
+
+
+
