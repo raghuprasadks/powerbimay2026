@@ -1,0 +1,62 @@
+Agenda:
+1. Introduction to data analytics
+2. Introduction to data visualization
+consulting firms
+top 4 consulting firms
+
+metro..
+consulting firm - feasibility study
+implementation ageny
+
+3. Tools for Analytics/Visualization
+4. Gartner magic quadrant for BI Tools
+5. Introduction to PowerBI
+6. Getting started with Power BI
+
+Top 10 economies in the world in 2026
+prompt
+display top 10 economies in the world in 2026 in a table format
+
+add per capita income and ppp
+
+download as a csv file
+import into power bi
+report
+country vs nominal gdp
+
+
+add current growth rate
+
+
+app.powerbi.com
+Sign up using college mail id
+
+mobile app
+power bi mobile app
+
+www.kaushalya.tech
+git
+repositories
+powerbimay2026
+programs
+adidassalesanalysis
+download all the files
+
+DAX - Data Analysis eXpressions
+
+Accounting
+
+YTD
+MTD
+MOM
+KPI
+
+totalsalesmeasure =SUM('Data Sales Adidas'[Total Sales])
+
+
+
+
+
+
+
+
